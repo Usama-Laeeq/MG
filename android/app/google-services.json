@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "398062107533",
+    "project_id": "monarch-recycling",
+    "storage_bucket": "monarch-recycling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398062107533:android:918250f241039a6d1f1bc4",
+        "android_client_info": {
+          "package_name": "com.example.monarch_recyclingg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398062107533-1c6ni3noiik2u2hj0reg69q59e6k135h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCZbdOBJqTEID8e45YU0Wqzrek6ceEUeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398062107533-1c6ni3noiik2u2hj0reg69q59e6k135h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
